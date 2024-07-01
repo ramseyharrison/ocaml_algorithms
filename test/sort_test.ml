@@ -1,4 +1,4 @@
-open Algorithms
+open Sort
 
 let unsorted_list mtd () =
   Alcotest.(check(list int)) "same lists"
