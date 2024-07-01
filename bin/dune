@@ -1,4 +1,4 @@
 (executable
  (public_name ocaml_algorithms)
  (name main)
- (libraries algorithms))
+ (libraries sort))
