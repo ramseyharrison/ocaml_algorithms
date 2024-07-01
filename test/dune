@@ -1,0 +1,3 @@
+(test
+ (name sort_test)
+ (libraries alcotest algorithms))
